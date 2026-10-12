@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Luan👋</h1>
 
-<!--
-**luanjosesilva/luanjosesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Estudante de Desenvolvimento de Sistemas no SESI | A programar o meu futuro linha por linha.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/seu-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://seu-portfolio-no-google-sites.com" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio%20Escolar-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Portfólio"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mim
+- 🏫 Atualmente estou no **Ensino Médio integrado ao curso Técnico de Desenvolvimento de Sistemas no SESI**.
+- 🌱 Estou a focar os meus estudos em construir uma base sólida na programação (com foco principal em **Java**), entendendo a lógica por trás de cada estrutura, banco de dados e APIs.
+- 🎯 **Próximos passos:** No próximo ano (meu 3º ano do ensino médio), pretendo aprofundar-me em cursos externos e focar na minha transição para o mercado de trabalho logo após a formatura.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas que estou a aprender
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
