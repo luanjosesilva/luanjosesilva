@@ -22,8 +22,9 @@
 ### 🛠️ Tecnologias e Ferramentas que estou a aprender
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?icons=java,mysql" alt="Skill Icons" />
+  </a>
 </p>
 
 ---
