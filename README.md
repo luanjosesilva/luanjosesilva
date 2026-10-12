@@ -13,9 +13,9 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🏫 Atualmente estou no **Ensino Médio integrado ao curso Técnico de Desenvolvimento de Sistemas no SESI**.
-- 🌱 Estou a focar os meus estudos em construir uma base sólida na programação (com foco principal em **Java**), entendendo a lógica por trás de cada estrutura, banco de dados e APIs.
-- 🎯 **Próximos passos:** No próximo ano (meu 3º ano do ensino médio), pretendo aprofundar-me em cursos externos e focar na minha transição para o mercado de trabalho logo após a formatura.
+- Atualmente estou no Ensino Médio da Escola SESI integrado ao curso de Desenvolvimento de Sistemas;
+- Nos meus estudos tenho foco na linguagem JAVA.
+- **Próximos passos:** No próximo ano (meu 3º ano do ensino médio), pretendo me aprofundar em cursos externos e focar na minha transição para o mercado de trabalho logo após a formatura.
 
 ---
 
