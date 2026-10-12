@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que estou a aprender
+### 🛠️ Tecnologias e Ferramentas que estou aprendendo
 
 <p>
   <a href="https://skillicons.dev">
